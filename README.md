@@ -1,0 +1,1 @@
+Hello beautiful world! In this project, html is being practiced by creating a recipe page.
